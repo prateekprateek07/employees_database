@@ -20,7 +20,7 @@ female salary per department within a certain salary range. Let this range be de
 two values the user can insert when calling the procedure.
 Finally, visualize the obtained result-set in Tableau as a double bar chart.
 
-Thanks for checking out.
+Thanks for checking out
 
 Please check the other Dashboard as well on my Tableau Public Profile.
 https://public.tableau.com/app/profile/prateek.prateek/vizzes
